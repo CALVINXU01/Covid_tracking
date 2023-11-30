@@ -28,20 +28,6 @@ This project is a Covid tracking system that uses linked lists and AVL tree data
 ## Usage Instructions
 The program can run in two modes: List mode (`list`) and AVL tree mode (`avl`). The mode needs to be specified as a command-line argument.
 
-### Execution Method
-```
-yourprogram list
-```
-or
-```
-yourprogram avl
-```
-
-### Compilation Command
-Compile the code using the following command:
-```
-gcc -o yourprogram yourprogram.c
-```
 
 ## Technical Details
 - **Data Structures**: Linked List and AVL Tree.
